@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Dirooz;
+  src: url('Dirooz.eot');
+  src: url('Dirooz.eot?#iefix') format('embedded-opentype'),
+       url('Dirooz.woff2') format('woff2'),
+       url('Dirooz.woff') format('woff'),
+       url('Dirooz.ttf') format('truetype');
+  font-weight: normal;
+}
+

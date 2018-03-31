@@ -1,13 +1,13 @@
-# Dirooz-Font
+# Nahid-Font
 A Persian (Farsi) Font
 
 
 <p dir="rtl">
-فونت فارسی دیروز <br />
+فونت فارسی ناهید <br />
 این قلم بنا به علاقه برخی افراد به سری نخستِ فونت وزیر ایجاد شده است. برای حالت ضخیم یا نازک می‌توانید از نرم‌افزار‌های ویرایش فونت استفاده نمایید. <br />
 
-<p dir="rtl"><a href="http://rastikerdar.github.io/dirooz-font/">نمایش فونت</a></p>
-<p dir="rtl"><a href="https://github.com/rastikerdar/dirooz-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a></p> <br />
+<p dir="rtl"><a href="http://rastikerdar.github.io/nahid-font/">نمایش فونت</a></p>
+<p dir="rtl"><a href="https://github.com/rastikerdar/nahid-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a></p> <br />
 
 <br>
 
@@ -29,11 +29,11 @@ A Persian (Farsi) Font
 
 ```css
 @font-face {
-  font-family: Dirooz;
-  src: url('Dirooz.eot');
-  src: url('Dirooz.eot?#iefix') format('embedded-opentype'),
-       url('Dirooz.woff') format('woff'),
-       url('Dirooz.ttf') format('truetype');
+  font-family: Nahid;
+  src: url('Nahid.eot');
+  src: url('Nahid.eot?#iefix') format('embedded-opentype'),
+       url('Nahid.woff') format('woff'),
+       url('Nahid.ttf') format('truetype');
   font-weight: normal;
 }
 ```

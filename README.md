@@ -38,3 +38,24 @@ A Persian (Farsi) Font
 }
 ```
 
+## Install
+#### Linux
+gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install nahid font.
+
+ubuntu users must install this dependensies too:
+```
+sudo apt install openssl libssl-dev
+````
+
+##### install kateb
+```
+sudo cpan kateb
+```
+and
+```
+kateb install nahid
+```
+or
+```
+kateb update nahid
+```

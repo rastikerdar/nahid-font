@@ -38,3 +38,12 @@ A Persian (Farsi) Font
 }
 ```
 
+## Install
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install nahid font.
+
+```
+kateb install nahid
+or
+kateb update nahid
+```
